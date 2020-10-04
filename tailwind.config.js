@@ -5,10 +5,10 @@ module.exports = {
         'recipe-header-background': '#F7FAFC',
         'recipe-header-border': '#E8EDF3',
         'recipe-meta-title': '#718096',
-        'recipe-meta': '##1A202C',
+        'recipe-meta': '#1A202C',
 
         'tutorial-button-blue': '#3A66DB',
-        'discussion-button-gray': '##CBD2D9',
+        'discussion-button-gray': '#CBD2D9',
 
         primary: {
           100: '#D9E8FF',
