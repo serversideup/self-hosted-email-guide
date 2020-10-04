@@ -1,0 +1,54 @@
+{
+  "name": "self-hosted-email-guide",
+  "short_name": "self-hosted-email-guide",
+  "description": "<p align=\"center\"> \t<a href=\"https://self-hosted-email-guide.serversideup.net/\" target=\"_blank\"> \t\t<img src=\"https://self-hosted-email-guide.serversideup.net/preview.png\" width=\"1200\" alt=\"Self Hosted Email Guide Logo\"> \t</a> </p> <p align=\"center\">   <a title=\"Documentation\" href=\"https://self-hosted-email-guide.serversideup.net/\"><strong>👉 View the knowledgebase</strong></a>   &#x2022;   <a title=\"Support Us\" href=\"https://github.com/sponsors/serversideup\"><strong>Support Us</strong></a> </p> <p align=\"center\"> \t<a href=\"https://actions-badge.atrox.dev/serversideup/self-hosted-email-guide/goto?ref=master\"><img alt=\"Build Status\" src=\"https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fserversideup%2Fself-hosted-email-guide%2Fbadge%3Fref%3Dmaster&style=flat\" /></a> \t<a href=\"https://github.com/serversideup/self-hosted-email-guide/blob/master/LICENSE\" target=\"_blank\"><img src=\"https://badgen.net/github/license/serversideup/self-hosted-email-guide\" alt=\"License\"></a> \t<a href=\"https://github.com/sponsors/serversideup\"><img src=\"https://badgen.net/badge/icon/Support%20Us?label=GitHub%20Sponsors&color=orange\" alt=\"Support us\"></a> </p>",
+  "icons": [
+    {
+      "src": "/_nuxt/icons/icon_64x64.227307.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_120x120.227307.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_144x144.227307.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_152x152.227307.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_192x192.227307.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_384x384.227307.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_512x512.227307.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00CD81",
+  "lang": "en"
+}
