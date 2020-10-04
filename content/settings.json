@@ -1,0 +1,10 @@
+{
+  "title": "Self Hosted Email Guide",
+  "url": "https://self-hosted-email-guide.serversideup.net/",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "serversideup/self-hosted-email-guide",
+  "twitter": "@serversideup"
+}
